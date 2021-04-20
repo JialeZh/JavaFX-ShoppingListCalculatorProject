@@ -1,4 +1,4 @@
-# JavaFX Shopping List Calculator Project
+# Shopping List Calculator Project Built With Java + JavaFX
 
 ## Project Functions
 ```
